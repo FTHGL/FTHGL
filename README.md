@@ -19,9 +19,7 @@ Merhaba! Ben Abdurrahman Fatihoğlu, Konya Teknik Üniversitesi Elektrik Elektro
 C/C++, JAVA, C#, Python, Kicad, Proteus, Ansys HFSS, CST Studio, Matlab/Simulink, STM32CUBEIDE/CUBEMX, Keil, VHDL/Vivado, Aseprite
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FTHGL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=FTHGL&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FTHGL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
