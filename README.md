@@ -4,15 +4,18 @@ Hello! I am Abdurrahman Fatihoğlu, a 4th-year student who will graduate from th
 
 <div style="overflow:hidden;">
   <div style="width:100%;border-bottom:1px solid #000;height:1px;position:relative;">
-    <div style="background:#000;width:100px;height:1px;position:absolute;left:0;top:0;animation: move 2s linear infinite;"></div>
-    <style>
-      @keyframes move {
-        from {left:0;}
-        to {left:100%;}
-      }
-    </style>
+    <div style="background:#000;width:100%;height:1px;position:absolute;left:-100%;animation: move 2s linear infinite;"></div>
   </div>
 </div>
+
+<style>
+  @keyframes move {
+    from {left:-100%;}
+    to {left:100%;}
+  }
+</style>
+
+---
 
 # 💫 Hakkımda:
 
@@ -20,20 +23,22 @@ Merhaba! Ben Abdurrahman Fatihoğlu, Konya Teknik Üniversitesi Elektrik Elektro
 
 <div style="overflow:hidden;">
   <div style="width:100%;border-bottom:1px solid #000;height:1px;position:relative;">
-    <div style="background:#000;width:100px;height:1px;position:absolute;left:0;top:0;animation: move 2s linear infinite;"></div>
-    <style>
-      @keyframes move {
-        from {left:0;}
-        to {left:100%;}
-      }
-    </style>
+    <div style="background:#000;width:100%;height:1px;position:absolute;left:-100%;animation: move 2s linear infinite;"></div>
   </div>
 </div>
+
+<style>
+  @keyframes move {
+    from {left:-100%;}
+    to {left:100%;}
+  }
+</style>
+
+---
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-fatiho%C4%9Flu-56820a235/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fthgl_) 
 
-# 💻 Tech Stack:
+#
 
-C/C++, JAVA, C#, Python, Kicad, Proteus, Ansys HFSS, CST Studio, Matlab/Simulink, STM32CUBEIDE/CUBEMX, Keil, VHDL/Vivado, Aseprite
