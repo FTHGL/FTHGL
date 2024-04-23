@@ -18,7 +18,6 @@ Hello! I am Abdurrahman Fatihoğlu, a 4th-year student who will graduate from th
 ---
 
 # 💫 Hakkımda:
-
 Merhaba! Ben Abdurrahman Fatihoğlu, Konya Teknik Üniversitesi Elektrik Elektronik Mühendisliği bölümünden mezun olacak bir 4. sınıf öğrencisiyim. Üniversite eğitimim süresince, gömülü sistem geliştirme alanında yeteneklerimi ilerleterek, gömülü sistemleri daha iyi anlamayı hedefledim. Bunun yanında PCB kart donanım tasarımı, RF sinyalleri ile haberleşme ve çip tasarımı (IC tasarımı) gibi ilgi alanlarımda sürekli olarak kendimi geliştirdim ve geliştirmeye devam ediyorum. Bu alanlarda daha da profesyonelleşip kendimi ileriye taşıyarak kazandığım nitelikli deneyimleri sektörde etkili bir profesyonel olmak adına kullanmak istiyorum.
 
 <div style="overflow:hidden;">
@@ -40,5 +39,6 @@ Merhaba! Ben Abdurrahman Fatihoğlu, Konya Teknik Üniversitesi Elektrik Elektro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-fatiho%C4%9Flu-56820a235/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fthgl_) 
 
-#
+# 💻 Tech Stack:
 
+C/C++, JAVA, C#, Python, Kicad, Proteus, Ansys HFSS, CST Studio, Matlab/Simulink, STM32CUBEIDE/CUBEMX, Keil, VHDL/Vivado, Aseprite
