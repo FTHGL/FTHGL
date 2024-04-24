@@ -25,4 +25,3 @@ C/C++, JAVA, C#, Python, Kicad, Proteus, Ansys HFSS, CST Studio, Matlab/Simulink
 ---
 [![](https://visitcount.itsvg.in/api?id=FTHGL&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
