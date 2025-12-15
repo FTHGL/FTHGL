@@ -25,7 +25,7 @@
 
 I am an engineer who thinks and designs at the system level. My primary areas of focus include RF design, PCB hardware architecture, and chip (IC) design. Embedded systems form the inner dynamics of this structure, serving as a natural extension of my work.
 
-To me, engineering is not merely about building systems that function — it is about uncovering the order, rhythm, and meaning beneath them. From the chaos of high-frequency behavior to the elegant logic of a single gate, I seek balance within uncertainty and clarity within complexity..
+To me, engineering is not merely about building systems that function it is about uncovering the order, rhythm, and meaning beneath them. From the chaos of high-frequency behavior to the elegant logic of a single gate, I seek balance within uncertainty and clarity within complexity..
 
 
 
